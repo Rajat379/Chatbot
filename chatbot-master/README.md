@@ -7,7 +7,7 @@ To run the project:
 - Git and node.js must be installed  
 - Run in command line:
     
-        git clone git@github.com:fmiras/chatbot.git
+        git clone git@github.com:Rajat379/chatbot.git
         cd chatbot
         npm install
         npm start
